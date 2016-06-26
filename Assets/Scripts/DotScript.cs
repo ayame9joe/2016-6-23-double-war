@@ -5,7 +5,7 @@ public class DotScript : MonoBehaviour {
 
 	Vector3 speed;
 
-	float maxSpeed = 0.1f;
+	float maxSpeed = 0.05f;
 
 	int directionChangeTimes = 0;
 
